@@ -1,0 +1,15 @@
+pogoda,temperatura,wilgotnosc,wiatr,golf
+slonce,wysoka,wysoka,nie,nie
+slonce,wysoka,wysoka,tak,nie
+zachmurzenie,wysoka,wysoka,nie,tak
+deszcz,srednia,wysoka,nie,tak
+deszcz,niska,normalna,nie,tak
+deszcz,niska,normalna,tak,nie
+zachmurzenie,niska,normalna,tak,tak
+slonce,srednia,wysoka,nie,nie
+slonce,niska,normalna,nie,tak
+deszcz,srednia,normalna,nie,tak
+slonce,srednia,normalna,tak,tak
+zachmurzenie,srednia,wysoka,tak,tak
+zachmurzenie,wysoka,normalna,nie,tak
+deszcz,srednia,wysoka,tak,nie
