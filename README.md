@@ -1,4 +1,4 @@
-#Data Mining Methods 
+# Data Mining Methods 
 This is an Applied Computer Science course at the Warsaw University of Technology.
 
 # Project 
