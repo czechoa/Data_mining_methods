@@ -1,7 +1,9 @@
-# Data_mining_methods
-project - Forecast use of a city bikeshare system.  Lab - data mining course from PW  
+
+#Data Mining Methods 
+It is the 5th semester of Applied Computer Science at the Warsaw University of Technology.
 
 # Project 
+It was a group project with Karol Kociołek
 
 Data are from kaggle challenge https://www.kaggle.com/c/bike-sharing-demand.
 
