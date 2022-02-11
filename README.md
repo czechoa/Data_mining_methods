@@ -1,6 +1,5 @@
-
 #Data Mining Methods 
-It is the 5th semester of Applied Computer Science at the Warsaw University of Technology.
+This is an Applied Computer Science course at the Warsaw University of Technology.
 
 # Project 
 It was a group project with Karol Kociołek.
