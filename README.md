@@ -12,7 +12,7 @@ The second part of the project (Regression_models) is related to the development
 
 ![image](project/image/Linear_models_results.png)
 
-I also compared the results from linear regression with models using deep learning.
+Compared the results from linear regression with models using deep learning.
 
 ![image](project/image/dnn_results.png)
 
