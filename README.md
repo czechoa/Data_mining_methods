@@ -9,9 +9,10 @@ First part is Exploratory analysis (Analiza_Ekspolaracyjna). The purpose of the 
 
 The second part of the project (Regression_models) is related to the development of a regression model through the use of feature selection and regularization methods. 
 
-![image](project/image/Linear_models_results.png)\
+![image](project/image/Linear_models_results.png)
 
 I also compared the results from linear regression with models using deep learning.
-![image](project/image/dnn_results.png)\
+
+![image](project/image/dnn_results.png)
 
 
